@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/Views/JG_Clientes.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>65</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/bean/JG_Clientess.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/Views/JG_Vendas.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/DAO/JG_ClientesDAO.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/principal/JG_LojaTecZone.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/layout/JG_Topo.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/Views/ListaGerente.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/Views/JG_Gerente.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/Views/JG_Compras.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/DAO/JG_ComprasDAO.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/Views/ListaCompras.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/Views/JG_Clientes.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/layout/JG_Rodapé.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/layout/JG_Centro.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/DAO/JG_FuncionárioDAO.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/bean/JG_Vendass.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/layout/JG_Esquerda.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/DAO/ConexãoDB.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/bean/JG_Comprass.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/bean/JG_Funcionários.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/bean/JG_Gerentee.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/DAO/JG_GerenteDAO.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/layout/JG_Direita.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/Views/ListaFuncionário.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/DAO/JG_VendasDAO.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/Views/JG_Funcionário.java</file>
+            <file>file:/C:/Users/USER.DESKTOP-40NPD12/Documents/NetBeansProjects/LojaTecZone/src/Views/ListaClientes.java</file>
+        </group>
+    </open-files>
+</project-private>
